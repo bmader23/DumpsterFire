@@ -1,0 +1,6 @@
+[submodule "DumpsterFire/ThirdParty/spdlog"]
+	path = DumpsterFire/ThirdParty/spdlog
+	url = https://github.com/gabime/spdlog
+[submodule "ThirdParty/Premake"]
+	path = ThirdParty/Premake
+	url = https://github.com/premake/premake-core
